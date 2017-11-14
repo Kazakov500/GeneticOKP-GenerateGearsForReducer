@@ -1,0 +1,9 @@
+c:\users\kazakov500\documents\visual studio 2015\Projects\GeneticOKP\GeneticOKP\bin\Debug\GeneticOKP.exe.config
+c:\users\kazakov500\documents\visual studio 2015\Projects\GeneticOKP\GeneticOKP\bin\Debug\GeneticOKP.exe
+c:\users\kazakov500\documents\visual studio 2015\Projects\GeneticOKP\GeneticOKP\bin\Debug\GeneticOKP.pdb
+c:\users\kazakov500\documents\visual studio 2015\Projects\GeneticOKP\GeneticOKP\obj\Debug\GeneticOKP.csprojResolveAssemblyReference.cache
+c:\users\kazakov500\documents\visual studio 2015\Projects\GeneticOKP\GeneticOKP\obj\Debug\GeneticOKP.Form1.resources
+c:\users\kazakov500\documents\visual studio 2015\Projects\GeneticOKP\GeneticOKP\obj\Debug\GeneticOKP.Properties.Resources.resources
+c:\users\kazakov500\documents\visual studio 2015\Projects\GeneticOKP\GeneticOKP\obj\Debug\GeneticOKP.csproj.GenerateResource.Cache
+c:\users\kazakov500\documents\visual studio 2015\Projects\GeneticOKP\GeneticOKP\obj\Debug\GeneticOKP.exe
+c:\users\kazakov500\documents\visual studio 2015\Projects\GeneticOKP\GeneticOKP\obj\Debug\GeneticOKP.pdb
